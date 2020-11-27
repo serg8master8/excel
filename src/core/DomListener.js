@@ -1,0 +1,7 @@
+class DomListener {
+
+}
+
+export {
+  DomListener,
+}
