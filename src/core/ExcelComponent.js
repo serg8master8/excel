@@ -1,7 +1,7 @@
 import { DomListener } from '@core/DomListener'
 
 class ExcelComponent extends DomListener {
-  //возвращает шаблон компонента
+  // возвращает шаблон компонента
   toHTML() {
     return ''
   }
